@@ -76,9 +76,13 @@ p {
   background-color: white; 
 }
 
-.white_text {
-  color: white;
+.white_text  {
+
+  color: white !important;
+
 }
+
+
 button {color: white;}
 
 /* Adding media queries to show the drop-down, and hide the navbar when the screen is smaller than 480 pixels */
